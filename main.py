@@ -29,7 +29,7 @@ class Body(BaseModel):
 
 @app.get("/")
 def welcome():
-    return {"messages":"Welcome to ChatGPT AI Application (version 3.0)"}
+    return {"messages":"Welcome to ChatGPT AI Application (version 3)"}
 
 
 @app.post("/generate_response")
