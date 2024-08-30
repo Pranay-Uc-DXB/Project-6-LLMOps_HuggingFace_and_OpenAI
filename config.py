@@ -1,0 +1,4 @@
+#api_key="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"
+assistant_id= "asst_WA00yaGdCXykEzgCA3rHNW8H"
+
+
