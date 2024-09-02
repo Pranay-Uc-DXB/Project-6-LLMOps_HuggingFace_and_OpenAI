@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: chatgpt-deploy
 spec:
-  replicas: 2
+  replicas: 3
   selector:
     matchLabels:
       app: chatgpt-pod
