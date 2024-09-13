@@ -1,5 +1,8 @@
+# kustomization.yaml
 apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
-  
+
 resources:
-  - deploy_gke.yaml
+  - deployment.yaml
+  - service.yaml
+  - hpa.yaml  

@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: chatgpt-deploy
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: chatgpt-pod
+  template:
+    metadata:
+      labels:
+        app: chatgpt-pod
+    spec:
+      containers:
+      - name: mychatgptcont
+        image: gcr.io/PROJECT_ID/IMAGE:TAG
+        resources:
+          limits:
+            memory: "256Mi"
+            cpu: "500m"
+          requests:
+            memory: "128Mi"
+            cpu: "250m"
+        ports:
+        - containerPort: 80
+        env:
+        - name: OPENAI_API
+          valueFrom:
+            secretKeyRef:
+              name: openai-secret
+              key: API_KEY
