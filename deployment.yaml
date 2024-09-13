@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: chatgpt-deploy
 spec:
-  replicas: 3
+  replicas: 1  # Reduced from 3
   selector:
     matchLabels:
       app: chatgpt-pod
@@ -16,12 +16,12 @@ spec:
       - name: mychatgptcont
         image: gcr.io/PROJECT_ID/IMAGE:TAG
         resources:
-          limits:
-            memory: "256Mi"
-            cpu: "500m"
           requests:
-            memory: "128Mi"
-            cpu: "250m"
+            cpu: "50m"
+            memory: "64Mi"
+          limits:
+            cpu: "500m"
+            memory: "256Mi"
         ports:
         - containerPort: 80
         env:
