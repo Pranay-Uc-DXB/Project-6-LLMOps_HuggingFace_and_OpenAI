@@ -73,6 +73,33 @@ jobs:
         kubectl rollout status deployment/$DEPLOYMENT_NAME
         kubectl get services -o wide
 
+    # Add Readiness Probe and Increase Progress Deadline Seconds in Deployment YAML
+    - name: Update Kubernetes Deployment with Readiness Probe
+      run: |-
+        kubectl patch deployment $DEPLOYMENT_NAME --patch '{
+          "spec": {
+            "progressDeadlineSeconds": 600,
+            "template": {
+              "spec": {
+                "containers": [
+                  {
+                    "name": "mychatgptcont",
+                    "readinessProbe": {
+                      "httpGet": {
+                        "path": "/healthz",
+                        "port": 80
+                      },
+                      "initialDelaySeconds": 10,
+                      "periodSeconds": 5
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }'
+
+
 
 
 
