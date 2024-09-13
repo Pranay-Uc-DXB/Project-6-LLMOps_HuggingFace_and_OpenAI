@@ -62,6 +62,10 @@ jobs:
         chmod u+x ./kustomize
         kubectl create secret generic openai-secret --from-literal=API_KEY=${{secrets.OPENAI_API}} || true
 
+    - name: Get deployment logs (optional)
+      run: |-
+        kubectl logs deployment/$DEPLOYMENT_NAME
+
     # Deploy the Docker image to the GKE cluster
     - name: Deploy
       run: |-
