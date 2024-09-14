@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: mychatgptcont
-        image: gcr.io/PROJECT_ID/IMAGE:TAG
+        image: gcr.io/PROJECT_ID/chatgpt:v1
         resources:
           requests:
             cpu: "50m"
