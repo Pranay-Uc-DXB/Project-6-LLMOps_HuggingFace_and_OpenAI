@@ -1,0 +1,131 @@
+Title: Trading Strategies
+
+A news trading strategy​​ involves trading based on news and market expectations, both before and following news releases. Trading on news announcements can require a skilled mind-set as news can travel very quickly on digital media. Traders will need to assess the news immediately after it’s released and make a quick judgement on how to trade it. Some key considerations include:
+
+Is the news already fully factored into the price of an instrument or only partially priced in?
+Does the news match market expectations?
+Understanding these differences in market expectations is crucial to success when using a news trading strategy.
+
+News trading strategy tips
+Treat each market and news release as an individual entity.
+Develop trading strategies for specific news releases.
+Market expectations and market reactions can be even more important than news releases.
+
+When trading based on news releases, it’s vital that the trader is aware of how financial markets​ operate. Markets need energy to move and this comes from information flow such as news releases. Therefore, it’s common that news is already factored into the assets price. This results from traders attempting to predict the results of future news announcements and in turn, the market’s response. A news trading strategy is particularly useful for volatile markets, including when trading oil and other fluctuating commodities.
+
+‘It's better to travel than to arrive’
+
+The above is a common trading motto. This motto suggests that it can be better to trade on price action before an announcement rather than simply waiting for the announcement. Doing so may protect the trader from the volatility than can follow a rumoured announcement. Learn about utilising a 'buy the rumour, sell the news​' trading strategy.
+
+Benefits of news trading
+A defined entry and exit strategy. Entering and exiting a trade is based on how the market interprets the news, which is commonly outlined in a trader’s plan.
+Many trade opportunities. Every day, there are several news events and economic releases that can provide trading opportunities. You can follow crucial news announcements by monitoring our economic calendar.
+Drawbacks of news trading
+Overnight risk. Depending on the type of news, trading positions may be open over several days. Any positions that are left open overnight incur overnight risk.
+News trading requires expert skills. News traders need to understand how certain announcements will affect their positions and the wider financial market. Additionally, they need to be able to understand news from a market perspective and not only subjectively.
+Join a trading community committed to your success
+Start with a live account
+Start with a demo
+2. End-of-day trading strategy
+The end-of-day trading strategy involves trading near the close of markets. End-of-day traders become active when it becomes clear that the price is going to ‘settle’ or close.
+
+This strategy requires the studying of price action in comparison to the previous day’s price movements. End-of-day traders can then speculate how the price could move based on the price action and decide on any indicators that they are using in their system. Traders should create a set of risk management orders including a limit order​, a stop-loss order and a take-profit order to reduce any overnight risk.
+
+This style of trading requires less time commitment than other trading strategies. This is because there is only a need to study charts at their opening and closing times.
+
+
+Benefits of end-of-day trading
+It’s suitable for most traders. End-of-day trading can be a good way to start trading, as there is no need to enter multiple positions.
+Less time commitment. Traders can analyse charts and place market orders either in the morning or at night, so it can be significantly less time consuming in comparison to other strategies.
+Drawbacks of end-of-day trading
+Overnight risk. Overnight positions can incur more risks, but this can be mitigated if you place a stop loss order. Guaranteed stop-losses are even more useful to mitigate risks.
+3. Swing trading strategy
+The term ‘swing trading’ refers to trading both sides on the movements of any financial market. Swing traders aim to ‘buy’ a security when they suspect that the market will rise. Otherwise, they can ‘sell’ an asset when they suspect that the price will fall. Swing traders take advantage of the market’s oscillations as the price swings back and forth, from an overbought to oversold state. Swing trading is purely a technical approach to analysing markets, achieved through studying charts and analysing the individual movements that comprise a bigger picture trend.
+
+Successful swing trading relies on the interpretation of the length and duration of each swing, as these define important support and resistance levels. Additionally, swing traders will need to identify trends where the markets encounter increasing levels of supply or demand. Traders also consider if momentum is increasing or decreasing within each swing while monitoring trades.
+
+
+Swing trading strategy tips
+During strong trends, it’s possible to use retracement swings to enter in the direction of the trend. These points are also referred to as ‘pullbacks’ or ‘dips’ in an existing trend.
+When a new momentum high is made, traders will look to the highest probability trade, which is usually to buy the first pullback. However, when a new momentum low is made, traders tend to look to sell the first rally.
+Use our pattern recognition scanner to identify chart patterns as part of technical analysis.
+Read our article on strategies for swing trading stocks to help guide your own strategy.
+Benefits of swing trading
+It’s viable as a hobby. Swing trading can be more suitable for people with limited time in comparison to other trading strategies. However, it does require some research to understand how oscillation patterns work.
+Many trade opportunities. Swing trading involves trading ‘both sides’ of the market, so traders can go long and short across a number of securities.
+Drawbacks of swing trading
+Overnight risk. Some trades will be held overnight, incurring additional risks, but this can be mitigated by placing a stop-loss order on your positions.
+It requires ample research. A lot of research is required to understand how to analyse markets, as technical analysis is comprised of a wide variety of technical indicators and patterns.
+	
+Powerful trading on the go
+Seamlessly open and close trades, track your progress and set up alerts
+
+Open a demo account
+Learn more
+4. Day trading strategy
+Day trading or intraday trading is suitable for traders that would like to actively trade in the daytime, generally as a full time profession. Day traders take advantage of price fluctuations in-between the market open and close hours. Day traders often hold multiple positions open in a day, but do not leave positions open overnight in order to minimise the risk of overnight market volatility. It’s recommended that day traders follow an organised trading plan that can quickly adapt to fast market movements.
+
+
+Just before the open of the FTSE and other European markets, traders should look to study the support and resistance levels and the possible reactions to the previous night’s trading in the US, as well as moves that have occurred in the Far Eastern markets. Many traders look to trade European markets in the first two hours when there is high liquidity. Otherwise, traders usually focus between 12pm – 5pm GMT when both the UK and US markets are open.
+
+Benefits of day trading
+There is no overnight risk. By definition, intra-day trading requires no trade is left open overnight.
+Limited intra-day risk. A day trader only opens short-term trades that usually last around 1 to 4 hours, which minimises the likelihood of risks that may exist in longer-term trades.
+Time flexible trading. Day trading might suit people who desire flexibility with their trading. A day trader might enter 1 to 5 positions during the day and close all of them when objectives are hit or when they are stopped out.
+Multiple trade opportunities. A day trader can make use of local and international markets and can open and close many positions within the day, including taking advantage of 24/7 forex market hours.
+Drawbacks of day trading
+It requires discipline. Similar to other short-term styles, intra-day trading requires discipline. Traders should utilise a pre-determined strategy, complete with entry and exit levels, to manage their risk.
+Flat trades. This is when some positions do not move within the day, which is to be expected.
+5. Trend trading strategy
+This strategy describes when a trader uses technical analysis to define a trend, and only enters trades in the direction of the pre-determined trend.
+
+‘The trend is your friend’
+
+The above is a famous trading motto and one of the most accurate in the markets. Following the trend is different from being ‘bullish or bearish​’. Trend traders do not have a fixed view of where the market should go or in which direction. Success in trend trading can be defined by having an accurate system to firstly determine and then follow trends. However, it’s crucial to stay alert and adaptable as the trend can quickly change. Trend traders need to be aware of the risks of market reversals, those which can be mitigated with a trailing stop-loss order.
+
+Several trend-following tools can be used for analysing specific markets including equities, treasuries, currencies and commodities. Trend traders will need to exercise their patience as ‘riding the trend’ can be difficult. However, with enough confidence in their trading system, the trend trader should be able to stay disciplined and follow their rules. However, it’s equally important to know when your system has stopped working. This usually occurs due to a fundamental market change, therefore it’s important to cut your losses short and let your profits run when trend trading.
+
+
+Trend trading strategy tips
+Stay alert for signs that the trend is ending or is about to change. Also, keep in mind that the last part of a trend can accelerate as traders with the wrong positions look to cut their losses.
+Decide the timeframe in which to follow the trend and try to keep this consistent.
+Benefits of trend trading
+It’s a useful hobby. Trend trading is suitable for people with limited time, after their trend identification system has been created.
+Many trade opportunities. A prevailing trend may offer various opportunities to enter and exit a trade. Additionally, trend trading may involve playing ‘both sides’ of the market.
+Drawbacks of trend trading
+Overnight risk. Trend trades are often open over several days so they may incur more overnight risks than other strategies. However, this can be mitigated by placing stop-loss orders.
+Join a trading community committed to your success
+Start with a live account
+Start with a demo
+6. Scalping trading strategy
+Traders who use a scalping strategy​ place very short-term trades with small price movements. Scalpers aim to ‘scalp’ a small profit from each trade in the hope that all the small profits accumulate. As a scalper, you must have a disciplined exit strategy as a large loss can eliminate many other profits that have accumulated slow and steadily. Forex scalping is particularly common for trading currency pairs.
+
+A scalper would operate away from the common mantra “let your profits run”, as scalpers tend to take their profits before the market has a chance to move. As scalpers generally operate on a risk/reward ratio​ of around 1/1, it’s common for scalpers not to make a large profit per trade, instead focusing on increasing their total number of smaller winning trades.
+
+
+Benefits of scalping
+There is no overnight risk. Scalpers do not hold overnight positions and most trades only last for a few minutes at maximum.
+It’s suitable as a hobby. Scalping is suitable for people who want to trade flexibly.
+Many trading opportunities. Scalpers open several small positions with a less defined criterion in comparison to other strategies, therefore there a lot of opportunities to trade on.
+Drawbacks of scalping
+Limited market applicability. Scalping only works in particular markets such as indices, bonds and some US equities. Scalping requires very high volatility and trading volumes to be worthwhile. Learn more about volatility trading.
+Requires discipline. As scalping requires larger position sizes than other trading styles, traders need to be extremely disciplined.
+It’s an extremely tense environment. Monitoring the slightest price movements in search of profits can be an extremely intense activity. It’s therefore not recommended for beginner traders.
+7. Position trading strategy
+Position trading is a popular trading strategy where a trader holds a position for a long period of time, usually months or years, ignoring minor price fluctuations in favor of profiting from long-term trends. Position traders tend to use fundamental analysis to evaluate potential price trends within the markets, but also take into considerations other factors such as market trends and historical patterns.
+
+Benefits of position trading
+High profits. Position trading allows traders to use high leverage, as the possibility of a mistake is smaller than in conventional trading.
+Less stress. One of the biggest advantages of position trading is that positions don't have to be checked on a daily basis.
+Drawbacks of position trading
+Significant loss. Position traders tend to ignore minor fluctuations that can become full trend reversals and result in significant losses.
+Swap. The swap is a commission paid to the broker. If the position is open for a long period of time, the swaps can accumulate a large amount.
+What is the best trading strategy?
+When it comes to trading strategies, they can all perform well under specific market conditions; the best trading strategy is a subjective matter. However, it’s recommended to pick a trading strategy based on your personality type, level of discipline, available capital, risk tolerance and availability. You can practise any one of these trading strategies above on a demo trading account with a virtual wallet of £10,000.
+
+Selecting a trading strategy
+Selecting a trading strategy doesn’t have to be complicated and you don’t have to stick with just one. A key thing to remember is that the best traders are adaptable and can change their trading strategy based on opportunities. Therefore, it’s a good idea to learn about each individual trading strategy and by combining different approaches to trading, you will become adaptive to each situation.
+
+Nevertheless, remember not to become disheartened if you encounter initial losses on your capital. Patience is key when learning to become a successful trader, and mistakes and losses are inevitable in order to grow and develop your trading skills.
+
+Successful traders often track their profits and losses, which helps to maintain their consistency and discipline across all trades. Consult our article on creating a trading plan template that could help to improve your trade performance.
