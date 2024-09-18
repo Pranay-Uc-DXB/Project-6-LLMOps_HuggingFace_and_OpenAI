@@ -27,3 +27,7 @@ Putting services into production is an important skill along with traditional ML
 - Docker: Used to containerize my FastAPI application
 - Kubernetes: For automating deploying, scaling, and managing docker applications (In my case only 1 application)
 - GitHub Actions: To automate testing, building, and deploying code, directly from my GitHub repository.
+
+
+
+## Q&A & HUggingFace Focussed Chatbot to be previewed soon...
