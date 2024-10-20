@@ -1,7 +1,6 @@
-# LLMOps using HuggingFace and OpenAI Models
+# LLMOps using HuggingFace and OpenAI Model
 
-
-![image](https://github.com/user-attachments/assets/824670a5-62f9-42bf-b7f5-bc137112b54f)
+![202409170009_cover](https://github.com/user-attachments/assets/41cd20d9-62af-4ed3-baa2-f2a80bf894db)
 
 
 Putting services into production is an important skill along with traditional ML, AI, & Data Science knowledge. Through this project, I want to leverage present data cloud services with evolving LLMs that will, in near future, become more cheaper, efficient, and sustainable for cloud hosting. Some of the popular use cases for LLMs in business have been listed below:
@@ -32,4 +31,4 @@ Putting services into production is an important skill along with traditional ML
 https://www.linkedin.com/posts/pranayu_ai-llms-devops-activity-7242019510159851520-McUn?utm_source=share&utm_medium=member_desktop
 
 
-## Q&A & HUggingFace Focussed Chatbot to be previewed soon...
+## Q&A & HuggingFace Focussed Chatbot to be previewed soon...
