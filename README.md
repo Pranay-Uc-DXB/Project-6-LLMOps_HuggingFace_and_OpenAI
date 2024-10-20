@@ -28,6 +28,8 @@ Putting services into production is an important skill along with traditional ML
 - Kubernetes: For automating deploying, scaling, and managing docker applications (In my case only 1 application)
 - GitHub Actions: To automate testing, building, and deploying code, directly from my GitHub repository.
 
+## Project Demo
+https://www.linkedin.com/posts/pranayu_ai-llms-devops-activity-7242019510159851520-McUn?utm_source=share&utm_medium=member_desktop
 
 
 ## Q&A & HUggingFace Focussed Chatbot to be previewed soon...
